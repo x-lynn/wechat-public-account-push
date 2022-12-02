@@ -20,7 +20,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '自己',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -53,17 +53,17 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'BTAdzjZFdAJA5jTnGYmLO902sat9Cn0mu4LTXb2-l3c',
+      useTemplateId: 'pIrj9fnWAwLYGyb9CahwUXBDHaB-URgVXQbDS0Hc0l8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-17',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '自己', year: '2001', date: '10-04',
+          type: '*生日', name: '宝贝', year: '2001', date: '10-04',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '自己', year: '2001', date: '11-17',
+          type: '生日', name: '宝贝', year: '2001', date: '11-17',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '11-22',
