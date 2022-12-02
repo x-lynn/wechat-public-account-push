@@ -7,6 +7,7 @@
  */
 const USER_CONFIG = {
 
+  TIAN_API.key:'74172b4477599d545841fd0b7c96d0bc ',
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx4d9e3084bc34c6a9',
 
