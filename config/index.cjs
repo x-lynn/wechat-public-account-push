@@ -32,11 +32,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝-阴历', year: '2001', date: '10-03',
+          type: '*生日', name: '宝贝-农历', year: '2001', date: '10-03',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '宝贝-阳历', year: '2001', date: '11-17',
+          type: '生日', name: '宝贝-公历', year: '2001', date: '11-17',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '11-22',
@@ -61,11 +61,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '自己-阴历', year: '1997', date: '12-27',
+          type: '*生日', name: '自己-农历', year: '1997', date: '12-27',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '自己-阳历', year: '1998', date: '01-25',
+          type: '生日', name: '自己-公历', year: '1998', date: '01-25',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '11-22',
