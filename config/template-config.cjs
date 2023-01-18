@@ -36,7 +36,7 @@ const TEMPLATE_CONFIG = [
     `
   },{
     id: '00010',
-    title: '亲爱的刘小仙女, 早上好',
+    title: '亲爱的媳妇, 早上好',
     desc: `
       **{{date.DATA}}**
       
