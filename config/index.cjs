@@ -47,7 +47,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-11-22' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-11-22' },
+        { keyword: 'marry_day', date: '2023-10-01' },
       ],
     },{
       // 想要发送的人的名字
