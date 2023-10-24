@@ -42,7 +42,7 @@ const USER_CONFIG = {
           type: '节日', name: '相识纪念日', year: '2022', date: '11-22',
         },
         {
-          type: '节日', name: '结婚', year: '2023', date: '10-01',
+          type: '节日', name: '结婚纪念日', year: '2023', date: '10-01',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -74,7 +74,7 @@ const USER_CONFIG = {
           type: '节日', name: '相识纪念日', year: '2022', date: '11-22',
         },
         {
-          type: '节日', name: '结婚', year: '2023', date: '10-01',
+          type: '节日', name: '结婚纪念日', year: '2023', date: '10-01',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
