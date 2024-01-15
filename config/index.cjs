@@ -7,7 +7,7 @@
  */
 const USER_CONFIG = {
   // 请将以下代码按照图示粘贴到对应位置
-  USE_PASSAGE: 'server-chan',
+  //USE_PASSAGE: 'server-chan',
   
   TIAN_API:{key:'74172b4477599d545841fd0b7c96d0bc'},
   // 使用微信测试号：公众号APP_ID
