@@ -68,6 +68,19 @@ const TEMPLATE_CONFIG = [
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
+  },{
+    id: '00011',
+    title: '钙片铁片时间到了',
+    desc: `
+      **{{date.DATA}}**
+      钙片铁片时间到了，宝宝记得吃钙片铁片哦
+      
+      ---
+      
+      {{moment_copyrighting.DATA}}
+      
+      {{poetry_title.DATA}} {{poetry_content.DATA}}
+    `
   },
   {
     id: '0002',
