@@ -27,7 +27,8 @@ const USER_CONFIG = {
       //id: 'SCT189031Tu4JcwebCZiTWV9F4CcjeREjD',
       id: 'oyk9g6elGL95ZtjCE8YIsfPq9c3w',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '00010',
+      //useTemplateId: '00010',
+      useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-17',
       festivals: [
@@ -60,7 +61,8 @@ const USER_CONFIG = {
       //id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
       id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '00010',
+      //useTemplateId: '00010',
+      useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-17',
       festivals: [
@@ -93,7 +95,8 @@ const USER_CONFIG = {
       //id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
       id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0001',
+      //useTemplateId: '0001',
+      useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-25',
       festivals: [
@@ -121,8 +124,8 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '0002',
-
+  //CALLBACK_TEMPLATE_ID: '0002',
+CALLBACK_TEMPLATE_ID: 'q9CS-cnCdZ14yz1am5IpEQpB7Q_DaCdfpU5wDXgFq1I',
   CALLBACK_USERS: [
     {
       name: '自己',
