@@ -7,7 +7,7 @@
  */
 const USER_CONFIG = {
   // 请将以下代码按照图示粘贴到对应位置
-  //USE_PASSAGE: 'server-chan',
+  USE_PASSAGE: 'server-chan',
   
   TIAN_API:{key:'74172b4477599d545841fd0b7c96d0bc'},
   // 使用微信测试号：公众号APP_ID
@@ -24,11 +24,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '玲宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: 'SCT189031Tu4JcwebCZiTWV9F4CcjeREjD',
-      id: 'oyk9g6elGL95ZtjCE8YIsfPq9c3w',
+      id: 'SCT189031Tu4JcwebCZiTWV9F4CcjeREjD',
+      //id: 'oyk9g6elGL95ZtjCE8YIsfPq9c3w',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      //useTemplateId: '00010',
-      useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
+      useTemplateId: '00010',
+      //useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-17',
       festivals: [
@@ -58,11 +58,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝-自己',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
-      id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
+      id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
+      //id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      //useTemplateId: '00010',
-      useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
+      useTemplateId: '00010',
+      //useTemplateId: 'e5rdoHCvQtBcl_6iRENBP_7MaZ3HSPtz3Wk6j8zZXlk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-17',
       festivals: [
@@ -92,11 +92,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '自己',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
-      id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
+      id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
+      //id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      //useTemplateId: '0001',
-      useTemplateId: 'fX-KdYq2nKdC3ZtwoycAzCTKGDIHXq4nZM3-oKy_m8Q',
+      useTemplateId: '0001',
+      //useTemplateId: 'fX-KdYq2nKdC3ZtwoycAzCTKGDIHXq4nZM3-oKy_m8Q',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-25',
       festivals: [
@@ -124,14 +124,14 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  //CALLBACK_TEMPLATE_ID: '0002',
-CALLBACK_TEMPLATE_ID: 'q9CS-cnCdZ14yz1am5IpEQpB7Q_DaCdfpU5wDXgFq1I',
+  CALLBACK_TEMPLATE_ID: '0002',
+  //CALLBACK_TEMPLATE_ID: 'q9CS-cnCdZ14yz1am5IpEQpB7Q_DaCdfpU5wDXgFq1I',
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
-      id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
+      id: 'SCT150188TiW44CLs7Yvtc3Oy5Moz2Vi3p',
+      //id: 'oyk9g6YYuJmKeJz_esZCPyIj4oM4',
     }
   ],
 
